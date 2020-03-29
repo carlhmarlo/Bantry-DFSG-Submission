@@ -8,7 +8,8 @@ It also goes further than what is presented, with additional plots and stats.
 
 The R notebook was provided in HTML and Jupyter Notebook format.  
 - The Jupyter Notebook will run the code (if the file is in the correct path location)  
-- The HTML is provided for ease of viewing - but the code will not run.  However the code should run in R or R Studio (if all libraries are improrted and file path is correct)
+- The HTML is provided for ease of viewing - but the code will not run.  
+The code should run in R or R Studio (if all libraries are improrted and file path is correct)
 
 A couple of the plots in the presentation were generated using the data here but in Tableau. 
 - The datasets for these are provided in the relvant section of the notebooks.

@@ -17,8 +17,6 @@ A couple of the plots in the presentation were generated using the data here but
   -https://public.tableau.com/profile/ronen1936#!/vizhome/CHAAttendanceHeirarchicalClustering/Sheet1
   -https://public.tableau.com/profile/ronen1936#!/vizhome/CHAPAHeirarchicalClustering/Sheet1?publish=yes
 
-The the presentation is also part of the repo and so is the transcript:
--Bantry DFSG Submission.pptx
--Transcript.txt
+The the presentation is also part of the repo (Bantry DFSG Submission.pptx) and so is the transcript(Transcript.txt)
 
 If you have any questions - feel free to reach out to Ronen (ronenbecker@gmail.com)

@@ -1,0 +1,59 @@
+1. Hi! We're Bantry and we chose the Internal Data Track,
+	2. looking at the valuable data collected by Community Hubs Australia's hub leaders.
+	
+	3. Early on, we identified some business needs we thought the dataset could provide some useful insights on.
+		a. Understand what a 'typical' Hub looked like
+		b. Identify Hubs that were not typical
+		c. And consider how 'healthy' hubs were, based on the nature of their community engagement.
+		
+	4. The dataset showed hubs had been running for different periods, which we estimated from looking at the first and last activity dates for each hub.
+	
+	To compare hubs irrespective of age, we standardised the data on a per-month basis. For some analyses, we standardised with per-program-activity averages.
+	
+	5. We also did a little bit of data cleaning - ignoring program activities with zero participants and some service referral types depending on their label. 
+	
+	6. Our analysis was very much focussed on attendance, programmed activities and service referrals.
+	
+	7. And that's not to disregard the importance of Education and Training activities and One Off Events...
+
+	8. But it's where the data led us to. 
+	
+	When we look at all hubs, on average, a hub runs 19 programmed activities and makes 17 service referrals each month, while only running 4 education and training activities and a very small number of one off events.
+
+	9. And this trend is true for most hubs. We can see all hubs offer programmed activities, but not all hubs have equally developed their partnerships with external service providers. 
+	
+	Education and training and One off events make up a very small proportion of activities, even at the individual hub-level. 
+	
+	10. This chart shows the average number of program activities run per month, broken down by activity type. For example, 50 per cent of hubs delivered between 2.8 and 6.6 playgroup activities per month. We found outliers for each activity type, and have provided details on these atypical hubs in References 1 and 2 at the end of this presentation. 
+
+	11. We also considered attendance across all programmed activities and by programmed activity type. Hubs we identified as not being 'typical' are described in References 3, 4...
+	
+	12. ... and 5.
+
+	13. We also looked at the average number of Service Referrals made each month for each referral type. Across all hubs, referrals to family and education services were more numerous than for other types.
+
+	14. When considering all hubs, there were 1.07 service referrals per programmed activity.
+	
+	We think this could be a useful benchmark for Community Hubs Australia to use to help Hub leaders get the right mix of programmed activities and service referrrals.
+	
+	Details of hubs that had very low or very high ratios are included in Reference 6.
+	
+	15. Most hubs developed partnerships with 13-14 service provider types in 2019, 
+	but a few only had a limited number of partnerships.
+	
+	16. We also undertook some clustering analysis to find similarities between hubs based on the types of programmed activities run and the attendance at programmed activities. You can explore these analyses more fully through the linked Tableau Public Plots.
+
+	17. In summary, our analysis focussed on programmed activities and service referrals...
+	18. which on  made up over 90 per cent of activities across all hubs each month. 
+	
+	We have found some benchmarks Community Hubs Australia could find useful for understanding how individual hubs compare to the theoretical 'typical' hub.
+	
+	19. However we also think some of the data entry could be improved, and Community Hubs Australia may wish to consider using some of our averages as benchmarks to develop successful hubs.
+	
+	20. We have also provided some advice on how Community Hubs Australia could develop an easier to interpret dataset.
+	
+	21. Thank you.
+
+
+
+
